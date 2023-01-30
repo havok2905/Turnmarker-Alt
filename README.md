@@ -20,7 +20,7 @@ To install this module manually:
 
 ## Usage
 The turn marker will move to the active token on their turn, and move with them as they move:
-![example](examples/example.webm)
+![example](examples/example.gif)
 
 ### Settings
 #### Image ratio
