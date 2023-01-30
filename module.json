@@ -1,0 +1,57 @@
+{
+	"name": "turnmarker",
+	"title": "TurnMarker-alt",
+	"description": "Displays a (optionally animated) marker on the token who's active turn it is. Originally by Brunhine",
+	"authors": [
+		{
+			"name": "Bruhine"
+		},
+		{
+			"name": "Havok"
+		}
+	],
+	"version": "2.9.0",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10"
+	},
+	"scripts": [
+		"dist/bundle.js"
+	],
+	"socket": true,
+	"styles": [
+		"css/turnmarker.css"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		},
+		{
+			"lang": "de",
+			"name": "German",
+			"path": "lang/de.json"
+		},
+		{
+			"lang": "ko",
+			"name": "Korean",
+			"path": "lang/ko.json"
+		},
+		{
+			"lang": "ja",
+			"name": " 日本語",
+			"path": "lang/ja.json"
+		},
+		{
+			"lang": "es",
+			"name": "Español",
+			"path": "lang/es.json"
+		},
+		{
+			"lang": "zh-tw",
+			"name": "正體中文",
+			"path": "lang/zh-tw.json"
+		}
+	]
+}
