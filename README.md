@@ -38,7 +38,7 @@ Marker images by [Rin](https://foundryvtt.com/community/rin)
 
 |Runes of the Cultist |Runes of Regeneration |Runes of the Cosmos |Runes of Earthly Dust |
 |--|--|--|--|
-|<img src="assets/cultist.png" width="150" />|<img src="assets/regeneration.png" width="150" />|<img src="assets/cosmos.png" width="150" />|<img src="src/assets/earthlydust.png" width="150" />|
+|<img src="assets/cultist.png" width="150" />|<img src="assets/regeneration.png" width="150" />|<img src="assets/cosmos.png" width="150" />|<img src="assets/earthlydust.png" width="150" />|
 
 |Runes of Reality |Runes of Incendium |Runes of the Believer |Runes of the Mad Mage |
 |--|--|--|--|
