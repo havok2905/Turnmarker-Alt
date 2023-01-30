@@ -1,3 +1,5 @@
+# THIS IS AN UNOFFICIAL PORT OF TURN MARKER. DO NOT DEPEND ON THIS MODULE.
+
 # Turn Marker
 **Turn Marker** is a module for [Foundry VTT](https://foundryvtt.com/ "Foundry VTT") that adds an image under a token who is currently active in the combat tracker. This is completely system agnostic, and fully customizable to fit right into your game.
 
